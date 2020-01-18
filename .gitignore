@@ -1,3 +1,6 @@
 .ipynb_checkpoints/*
 homework/.ipynb_checkpoints/*
 practice/.ipynb_checkpoints/*
+
+# large training img
+homework/dataset/*
